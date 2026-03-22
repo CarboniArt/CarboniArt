@@ -125,3 +125,9 @@
 <h4 align="center">
   <a href="https://github.com/CarboniArt?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+
+<summary align="center"><a name="significant-certificates"><a/><h2>Certificados significantes</h2></summary>
+<img src="assets/690955fe6f_page-0001.jpg" width=200 alt="JAI"/>
+<img src="assets/b512f6b07b_pages-to-jpg-0001.jpg" width=200 alt="Estudos Sobre Redes Neurais Quanticas"/>
+<img src="assets/f1d39354d0_page-0001.jpg" width=200 alt="POCC"/>
