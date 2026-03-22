@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a6e,100:61dafb&height=150&section=header&text=Arthur%20Linzing&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=15&desc=✦%20Desenvolvedor%20Full%20Stack%20|%20Ciência%20da%20Computação%20✦&descAlignY=35&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a6e,100:61dafb&height=150&section=header&text=Arthur%20Linzing&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=15&desc=✦%20Desenvolvedor%20de%20Software%20|%20Ciência%20da%20Computação%20✦&descAlignY=35&descAlign=50" />
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arthurlinzing" target="_blank">
@@ -11,7 +9,6 @@
   <a href="mailto:arthurlinzing@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-000?&logo=Yahoo&logoColor=6001D2" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=CarboniArt&color=61dafb&style=flat&label=Visitas" />
 </div>
 
 <div align="center">
@@ -159,7 +156,7 @@
 
 <br>
 
-<h2 align="center">Repositórios</h2>
+<h2 align="center">Repositorios</h2>
 
 <br>
 
