@@ -3,27 +3,17 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arthurlinzing" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="mailto:arthurlinzing@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=Yahoo&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/arthurlinzing" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>&nbsp;
+  <a href="mailto:arthurlinzing@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=Yahoo&logoColor=white" /></a>
 </div>
 
+<br>
+
 <div align="center">
-  <a href="#linguagens">
-    <img src="https://img.shields.io/badge/💻 Linguagens-0a0a2e?style=for-the-badge" />
-  </a>
-  <a href="#tecnologias">
-    <img src="https://img.shields.io/badge/⚙️ Tecnologias-0a0a2e?style=for-the-badge" />
-  </a>
-  <a href="#repositorios">
-    <img src="https://img.shields.io/badge/📁 Repositórios-0a0a2e?style=for-the-badge" />
-  </a>
-  <a href="#certificados">
-    <img src="https://img.shields.io/badge/🎓 Certificados-0a0a2e?style=for-the-badge" />
-  </a>
+  <a href="#linguagens"><img src="https://img.shields.io/badge/💻 Linguagens-0a0a2e?style=for-the-badge" /></a>&nbsp;
+  <a href="#tecnologias"><img src="https://img.shields.io/badge/⚙️ Tecnologias-0a0a2e?style=for-the-badge" /></a>&nbsp;
+  <a href="#repositorios"><img src="https://img.shields.io/badge/📁 Repositórios-0a0a2e?style=for-the-badge" /></a>&nbsp;
+  <a href="#certificados"><img src="https://img.shields.io/badge/🎓 Certificados-0a0a2e?style=for-the-badge" /></a>
 </div>
 
 <br>
