@@ -134,12 +134,6 @@
       </td>
       <td align="center" width="96">
         <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        </a>
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <a href="#tech">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
         </a>
         <br>MongoDB
@@ -174,7 +168,7 @@
   </a>
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/CarboniArt?tab=repositories" title="Show Repositories">🔎 Mais repositórios aqui 🔍</a>
