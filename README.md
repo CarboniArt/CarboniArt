@@ -83,12 +83,6 @@
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
@@ -113,3 +107,21 @@
     </td>
   </tr>
 </table>
+
+
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/CarboniArt/FinanceTracker" title="FinanceTracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CarboniArt/RpgCharacterCreator" title="RpgCharacterCreator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=RpgCharacterCreator&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/CarboniArt/GerenciadorGastosFamiliar" title="GerenciadorGastosFamiliar"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=GerenciadorGastosFamiliar&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CarboniArt/Loverposting" title="Loverposting"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=Loverposting&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<h4 align="center">
+  <a href="https://github.com/CarboniArt?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
