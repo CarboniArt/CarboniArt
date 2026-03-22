@@ -1,4 +1,4 @@
-<h2 align="left" id="tech">Languages</h2>
+<h2 align="left" id="tech">Linguagens</h2>
 
 <table>
   <tr>
@@ -53,9 +53,7 @@
   </tr>
 </table>
 
-### Tecnologias
-
-html<h2 align="left" id="tech">Technologies</h2>
+<h2 align="left" id="tech">Tecnologias</h2>
 
 <table>
   <tr>
