@@ -18,7 +18,7 @@
 
 <div align="center">
   <p>
-    Desenvolvedor Full Stack com foco em backend, graduando em Ciência da Computação pela Unicentro.
+    Desenvolvedor Software com foco em backend, graduando em Ciência da Computação pela Unicentro em busca da primeira oportunidade na área.
     Tenho experiência acadêmica com Java/Spring Boot, Python, JavaScript, HTML/CSS, Dart/Flutter, C/C++, SQL e NoSQL.
     Além do código, possuo 3 anos de experiência como instrutor de programação pelo projeto E2PC,
     ensinando Python e Git/GitHub para alunos do ensino médio, e atuei como DevOps na Fábrica de Software da Unicentro.
@@ -116,12 +116,6 @@
       </td>
       <td align="center" width="96">
         <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        </a>
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <a href="#tech">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         </a>
         <br>Git
@@ -156,7 +150,7 @@
 
 <br>
 
-<h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
+<h2 align="center">Repositórios</h2>
 
 <br>
 
@@ -180,7 +174,7 @@
   </a>
 </div>
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/CarboniArt?tab=repositories" title="Show Repositories">🔎 Mais repositórios aqui 🔍</a>
@@ -188,7 +182,7 @@
 
 <br>
 
-<h2 align="center">🎓 Certificados</h2>
+<h2 align="center">Certificados</h2>
 
 <div align="center">
   <img src="assets/690955fe6f_page-0001.jpg" width="200" alt="JAI" />
