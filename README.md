@@ -25,20 +25,6 @@
   </p>
 </div>
 
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarboniArt&show_icons=true&theme=react&border_color=61dafb&border_radius=10&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarboniArt&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarboniArt&theme=react&border=61dafb&border_radius=10" />
-</div>
-
-<br>
 
 <h2 align="center">Linguagens</h2>
 
