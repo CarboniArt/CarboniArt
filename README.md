@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:61dafb&height=150&section=header&text=Arthur%20Linzing&fontSize=45&fontColor=61dafb&animation=fadeIn&fontAlignY=55&desc=Desenvolvedor%20Full%20Stack%20|%20Ciência%20da%20Computação&descAlignY=75&descAlign=50" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150" />
 </div>
 
 <br>
