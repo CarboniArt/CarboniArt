@@ -14,6 +14,21 @@
   <img src="https://komarev.com/ghpvc/?username=CarboniArt&color=61dafb&style=flat&label=Visitas" />
 </div>
 
+<div align="center">
+  <a href="#linguagens">
+    <img src="https://img.shields.io/badge/Linguagens-0a0a2e?style=for-the-badge" />
+  </a>
+  <a href="#tecnologias">
+    <img src="https://img.shields.io/badge/Tecnologias-0a0a2e?style=for-the-badge" />
+  </a>
+  <a href="#repositorios">
+    <img src="https://img.shields.io/badge/Repositórios-0a0a2e?style=for-the-badge" />
+  </a>
+  <a href="#certificados">
+    <img src="https://img.shields.io/badge/Certificados-0a0a2e?style=for-the-badge" />
+  </a>
+</div>
+
 <br>
 
 <div align="center">
