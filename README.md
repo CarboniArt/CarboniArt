@@ -28,57 +28,41 @@
 </div>
 
 
-<h2 align="center">Linguagens</h2>
+<h2 id="linguagens" align="center">Linguagens</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
         <br>Java
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
         <br>C
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
         <br>C++
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
         <br>Dart
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
         <br>HTML
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
         <br>CSS
       </td>
     </tr>
@@ -87,57 +71,41 @@
 
 <br>
 
-<h2 align="center">Tecnologias</h2>
+<h2 id="tecnologias" align="center">Tecnologias</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
         <br>Spring
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
         <br>Flutter
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
         <br>Docker
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
       </td>
     </tr>
@@ -146,31 +114,25 @@
 
 <br>
 
-<h2 align="center">Repositorios</h2>
+<h2 id="repositorios" align="center">Repositorios</h2>
 
 <br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/CarboniArt/FinanceTracker" title="FinanceTracker">
-    <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10&cache_seconds=1" />
-  </a>
-  <a align="right" href="https://github.com/CarboniArt/GerenciadorGastosFamiliar" title="GerenciadorGastosFamiliar">
-    <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=GerenciadorGastosFamiliar&theme=react&border_color=61dafb&border_radius=10&cache_seconds=1" />
-  </a>
+<div align="center">
+
+[![FinanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10)](https://github.com/CarboniArt/FinanceTracker)
+[![GerenciadorGastosFamiliar](https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=GerenciadorGastosFamiliar&theme=react&border_color=61dafb&border_radius=10)](https://github.com/CarboniArt/GerenciadorGastosFamiliar)
+
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<div align="center">
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/CarboniArt/Loverposting" title="Loverposting">
-    <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=Loverposting&theme=react&border_color=61dafb&border_radius=10&cache_seconds=1" />
-  </a>
-  <a align="right" href="https://github.com/CarboniArt/RpgCharacterCreator" title="RpgCharacterCreator">
-    <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=RpgCharacterCreator&theme=react&border_color=61dafb&border_radius=10&cache_seconds=1" />
-  </a>
+[![Loverposting](https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=Loverposting&theme=react&border_color=61dafb&border_radius=10)](https://github.com/CarboniArt/Loverposting)
+[![RpgCharacterCreator](https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=RpgCharacterCreator&theme=react&border_color=61dafb&border_radius=10)](https://github.com/CarboniArt/RpgCharacterCreator)
+
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br>
 
 <h4 align="center">
   <a href="https://github.com/CarboniArt?tab=repositories" title="Show Repositories">🔎 Mais repositórios aqui 🔍</a>
@@ -178,7 +140,7 @@
 
 <br>
 
-<h2 align="center">Certificados</h2>
+<h2 id="certificados" align="center">Certificados</h2>
 
 <div align="center">
   <img src="assets/690955fe6f_page-0001.jpg" width="200" alt="JAI" />
