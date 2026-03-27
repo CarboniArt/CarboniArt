@@ -119,17 +119,32 @@
 <br>
 
 <div align="center">
-
-[![FinanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10)](https://github.com/CarboniArt/FinanceTracker)
-[![GerenciadorGastosFamiliar](https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=GerenciadorGastosFamiliar&theme=react&border_color=61dafb&border_radius=10)](https://github.com/CarboniArt/GerenciadorGastosFamiliar)
-
-</div>
-
-<div align="center">
-
-[![Loverposting](https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=Loverposting&theme=react&border_color=61dafb&border_radius=10)](https://github.com/CarboniArt/Loverposting)
-[![RpgCharacterCreator](https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=RpgCharacterCreator&theme=react&border_color=61dafb&border_radius=10)](https://github.com/CarboniArt/RpgCharacterCreator)
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/CarboniArt/FinanceTracker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CarboniArt/GerenciadorGastosFamiliar">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=GerenciadorGastosFamiliar&theme=react&border_color=61dafb&border_radius=10" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/CarboniArt/Loverposting">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=Loverposting&theme=react&border_color=61dafb&border_radius=10" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CarboniArt/RpgCharacterCreator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=RpgCharacterCreator&theme=react&border_color=61dafb&border_radius=10" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
