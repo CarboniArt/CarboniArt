@@ -152,7 +152,7 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/CarboniArt/FinanceTracker" title="FinanceTracker">
-    <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10&cache_seconds=1" />
+    <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10&cache_seconds=10000" />
   </a>
   <a align="right" href="https://github.com/CarboniArt/GerenciadorGastosFamiliar" title="GerenciadorGastosFamiliar">
     <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=GerenciadorGastosFamiliar&theme=react&border_color=61dafb&border_radius=10&cache_seconds=1" />
