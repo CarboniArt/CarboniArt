@@ -92,8 +92,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
         <br>Docker
       </td>
-      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git</td>lign="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <td align="center" width="96">
+        <a href="#tech">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="48" height="48" alt="GitHub" />
         <br>GitHub
       </td>
       <td align="center" width="96">
