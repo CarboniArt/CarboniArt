@@ -115,60 +115,40 @@
 
 <br>
 
-<h2 id="repositorios" align="center">Repositorios</h2>
-
-<br>
+<h2 align="center" id="repositorios">Repositórios</h2>
 
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="8">
+  <table border="0">
     <tr>
-      <td align="center" width="360" style="border: 1px solid #61dafb; border-radius: 10px; background-color: #0d1117; padding: 16px;">
+      <td>
         <a href="https://github.com/CarboniArt/FinanceTracker">
-          <b>📊 FinanceTracker</b><br/>
-          <sub>Controle de finanças pessoais</sub><br/><br/>
-          <img src="https://img.shields.io/github/stars/CarboniArt/FinanceTracker?style=flat-square&color=61dafb" />
-          <img src="https://img.shields.io/github/forks/CarboniArt/FinanceTracker?style=flat-square&color=61dafb" />
-          <img src="https://img.shields.io/github/last-commit/CarboniArt/FinanceTracker?style=flat-square&color=61dafb" />
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10" />
         </a>
       </td>
-      <td align="center" width="360" style="border: 1px solid #61dafb; border-radius: 10px; background-color: #0d1117; padding: 16px;">
+      <td>
         <a href="https://github.com/CarboniArt/GerenciadorGastosFamiliar">
-          <b>👨‍👩‍👧 GerenciadorGastosFamiliar</b><br/>
-          <sub>Gerenciamento de gastos em família</sub><br/><br/>
-          <img src="https://img.shields.io/github/stars/CarboniArt/GerenciadorGastosFamiliar?style=flat-square&color=61dafb" />
-          <img src="https://img.shields.io/github/forks/CarboniArt/GerenciadorGastosFamiliar?style=flat-square&color=61dafb" />
-          <img src="https://img.shields.io/github/last-commit/CarboniArt/GerenciadorGastosFamiliar?style=flat-square&color=61dafb" />
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=GerenciadorGastosFamiliar&theme=react&border_color=61dafb&border_radius=10" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center" width="360" style="border: 1px solid #61dafb; border-radius: 10px; background-color: #0d1117; padding: 16px;">
+      <td>
         <a href="https://github.com/CarboniArt/Loverposting">
-          <b>💬 Loverposting</b><br/>
-          <sub>Rede social temática</sub><br/><br/>
-          <img src="https://img.shields.io/github/stars/CarboniArt/Loverposting?style=flat-square&color=61dafb" />
-          <img src="https://img.shields.io/github/forks/CarboniArt/Loverposting?style=flat-square&color=61dafb" />
-          <img src="https://img.shields.io/github/last-commit/CarboniArt/Loverposting?style=flat-square&color=61dafb" />
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=Loverposting&theme=react&border_color=61dafb&border_radius=10" />
         </a>
       </td>
-      <td align="center" width="360" style="border: 1px solid #61dafb; border-radius: 10px; background-color: #0d1117; padding: 16px;">
+      <td>
         <a href="https://github.com/CarboniArt/RpgCharacterCreator">
-          <b>⚔️ RpgCharacterCreator</b><br/>
-          <sub>Criador de personagens RPG</sub><br/><br/>
-          <img src="https://img.shields.io/github/stars/CarboniArt/RpgCharacterCreator?style=flat-square&color=61dafb" />
-          <img src="https://img.shields.io/github/forks/CarboniArt/RpgCharacterCreator?style=flat-square&color=61dafb" />
-          <img src="https://img.shields.io/github/last-commit/CarboniArt/RpgCharacterCreator?style=flat-square&color=61dafb" />
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=RpgCharacterCreator&theme=react&border_color=61dafb&border_radius=10" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
-
-<h4 align="center">
-  <a href="https://github.com/CarboniArt?tab=repositories" title="Show Repositories">🔎 Mais repositórios aqui 🔍</a>
-</h4>
+<p align="center">
+  <a href="https://github.com/CarboniArt?tab=repositories">🔎 Mais repositórios aqui 🔍</a>
+</p>
 
 <br>
 
