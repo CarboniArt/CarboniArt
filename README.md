@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arthurlinzing" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>&nbsp;
-  <a href="mailto:arthurlinzing@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=Yahoo&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arthurlinzing" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:arthurlinzing@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/CarboniArt" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
@@ -28,57 +29,41 @@
 </div>
 
 
-<h2 align="center">Linguagens</h2>
+<h2 id="linguagens" align="center">Linguagens</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
         <br>Java
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
         <br>C
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
         <br>C++
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
         <br>Dart
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
         <br>HTML
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
         <br>CSS
       </td>
     </tr>
@@ -87,57 +72,41 @@
 
 <br>
 
-<h2 align="center">Tecnologias</h2>
+<h2 id="tecnologias" align="center">Tecnologias</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
         <br>Spring
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
         <br>Flutter
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
         <br>Docker
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <a href="#tech">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
       </td>
     </tr>
@@ -146,44 +115,64 @@
 
 <br>
 
-<h2 align="center" id="repositorios">Repositórios</h2>
+<h2 id="repositorios" align="center">Repositorios</h2>
+
+<br>
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="10" cellpadding="8">
     <tr>
-      <td>
+      <td align="center" width="360" style="border: 1px solid #61dafb; border-radius: 10px; background-color: #0d1117; padding: 16px;">
         <a href="https://github.com/CarboniArt/FinanceTracker">
-          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=FinanceTracker&theme=react&border_color=61dafb&border_radius=10" />
+          <b>📊 FinanceTracker</b><br/>
+          <sub>Controle de finanças pessoais</sub><br/><br/>
+          <img src="https://img.shields.io/github/stars/CarboniArt/FinanceTracker?style=flat-square&color=61dafb" />
+          <img src="https://img.shields.io/github/forks/CarboniArt/FinanceTracker?style=flat-square&color=61dafb" />
+          <img src="https://img.shields.io/github/last-commit/CarboniArt/FinanceTracker?style=flat-square&color=61dafb" />
         </a>
       </td>
-      <td>
+      <td align="center" width="360" style="border: 1px solid #61dafb; border-radius: 10px; background-color: #0d1117; padding: 16px;">
         <a href="https://github.com/CarboniArt/GerenciadorGastosFamiliar">
-          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=GerenciadorGastosFamiliar&theme=react&border_color=61dafb&border_radius=10" />
+          <b>👨‍👩‍👧 GerenciadorGastosFamiliar</b><br/>
+          <sub>Gerenciamento de gastos em família</sub><br/><br/>
+          <img src="https://img.shields.io/github/stars/CarboniArt/GerenciadorGastosFamiliar?style=flat-square&color=61dafb" />
+          <img src="https://img.shields.io/github/forks/CarboniArt/GerenciadorGastosFamiliar?style=flat-square&color=61dafb" />
+          <img src="https://img.shields.io/github/last-commit/CarboniArt/GerenciadorGastosFamiliar?style=flat-square&color=61dafb" />
         </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center" width="360" style="border: 1px solid #61dafb; border-radius: 10px; background-color: #0d1117; padding: 16px;">
         <a href="https://github.com/CarboniArt/Loverposting">
-          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=Loverposting&theme=react&border_color=61dafb&border_radius=10" />
+          <b>💬 Loverposting</b><br/>
+          <sub>Rede social temática</sub><br/><br/>
+          <img src="https://img.shields.io/github/stars/CarboniArt/Loverposting?style=flat-square&color=61dafb" />
+          <img src="https://img.shields.io/github/forks/CarboniArt/Loverposting?style=flat-square&color=61dafb" />
+          <img src="https://img.shields.io/github/last-commit/CarboniArt/Loverposting?style=flat-square&color=61dafb" />
         </a>
       </td>
-      <td>
+      <td align="center" width="360" style="border: 1px solid #61dafb; border-radius: 10px; background-color: #0d1117; padding: 16px;">
         <a href="https://github.com/CarboniArt/RpgCharacterCreator">
-          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CarboniArt&repo=RpgCharacterCreator&theme=react&border_color=61dafb&border_radius=10" />
+          <b>⚔️ RpgCharacterCreator</b><br/>
+          <sub>Criador de personagens RPG</sub><br/><br/>
+          <img src="https://img.shields.io/github/stars/CarboniArt/RpgCharacterCreator?style=flat-square&color=61dafb" />
+          <img src="https://img.shields.io/github/forks/CarboniArt/RpgCharacterCreator?style=flat-square&color=61dafb" />
+          <img src="https://img.shields.io/github/last-commit/CarboniArt/RpgCharacterCreator?style=flat-square&color=61dafb" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center">
-  <a href="https://github.com/CarboniArt?tab=repositories">🔎 Mais repositórios aqui 🔍</a>
-</p>
+<br>
+
+<h4 align="center">
+  <a href="https://github.com/CarboniArt?tab=repositories" title="Show Repositories">🔎 Mais repositórios aqui 🔍</a>
+</h4>
 
 <br>
 
-<h2 align="center">Certificados</h2>
+<h2 id="certificados" align="center">Certificados</h2>
 
 <div align="center">
   <img src="assets/690955fe6f_page-0001.jpg" width="200" alt="JAI" />
