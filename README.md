@@ -23,7 +23,7 @@
     Desenvolvedor Software com foco em backend, graduando em Ciência da Computação pela Unicentro em busca da primeira oportunidade na área.
     Tenho experiência acadêmica com Java/Spring Boot, Python, JavaScript, HTML/CSS, Dart/Flutter, C/C++, SQL e NoSQL.
     Além do código, possuo 3 anos de experiência como instrutor de programação pelo projeto E2PC,
-    ensinando Python e Git/GitHub para alunos do ensino médio, e atuei como DevOps na Fábrica de Software da Unicentro.
+    ensinando Python e Git/GitHub para alunos do ensino médio, e atuei como DevOps na Fábrica de Software da Unicentro. 
   </p>
 </div>
 
