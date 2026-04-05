@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/arthurlinzing" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:arthurlinzing@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" /></a>&nbsp;
 </div>
-
+ 
 <br> 
 
 <div align="center">
